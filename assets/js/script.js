@@ -64,7 +64,7 @@ document.head.appendChild(styleSheet)
 
 document.querySelectorAll('.github').forEach(element => {
    element.onclick = function() { 
-       window.open("https://github.com/Arjun99ab/ovo", "_blank");
+       window.open("https://arjun99ab.github.io/ovo/", "_blank");
    }
 });
 
@@ -73,7 +73,7 @@ document.querySelectorAll('.discord').forEach(element => {
        navigator.clipboard.writeText(".awesomeguy.");
        swal({
            title: "Successfully Copied to Clipboard!",
-           text: ".awesomeguy.",
+           text: "bluhh_xg",
        });
    }
 });
