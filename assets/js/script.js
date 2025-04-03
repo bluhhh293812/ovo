@@ -64,7 +64,7 @@ document.head.appendChild(styleSheet)
 
 document.querySelectorAll('.github').forEach(element => {
    element.onclick = function() { 
-       window.open("https://arjun99ab.github.io/ovo/", "_blank");
+       window.open("https://bluhhh293812.github.io/ovo", "_blank");
    }
 });
 
